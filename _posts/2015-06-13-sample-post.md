@@ -1,10 +1,6 @@
 ---
-published: true
 layout: post
-date: {}
-categories: jekyll update
 ---
-
 
 ## A New Post
 
